@@ -1,0 +1,15 @@
+Expression Tree
+
+assignment of Data Structure lecture of Korea University 2019-01 semester
+
+
+Program Executes:
+
+	1. postfix expression is given from the user. (ex: 12+53-*)
+	2. expression tree is made from the given postfix expression.
+	3. print infix expression from expression tree. (ex: (1+2)*(5-3))
+	4. print expression tree.
+	5. calculate the result of postfix expression and print it.
+  
+  
+This program is written with C language.
