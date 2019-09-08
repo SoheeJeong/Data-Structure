@@ -1,0 +1,11 @@
+Binary Search Tree
+
+assignment of Data Structure lecture of Korea University 2019-01 semester
+
+
+This program automatically inserts 20 ramdom integers into binary search tree.
+It shows inorder traversal of bst and also prints tree representation(feature) of bst.
+User can delete some integer; then program shows inorder traversal and tree representation again.
+
+
+This program is written with C language.
