@@ -1,0 +1,12 @@
+assignment of Data Structure lecture of Korea University 2019-01 semester
+
+This is a singly linked list of integer input.
+
+User can give four action: Quit, Print, Insert, Delete, and Search.
+Quit: exit the program. 
+Print: show current list. (ex: 1->4->2->NULL) 
+Insert: give an integer data to insert into the list. 
+Delete: give an integer data to delete from the list. 
+Search: search whether given integer data exists or not in the list.
+
+This program is written with C language.
