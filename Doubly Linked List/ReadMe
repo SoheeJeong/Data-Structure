@@ -1,0 +1,56 @@
+Doubly Linked List
+
+
+assignment of Data Structure lecture of Korea University 2019-01 semester
+
+This program internally creates a doubly linked list of tokens in file input in dictionary order, 
+and shows the list which shows the frequency of each token.
+
+
+
+User can give four action: Quit, Forward Print, Backward Print, and Delete.
+
+Quit: exit the program and free all the memories previously allocated.
+Forward Print: show token list which is sorted in dictionary order.
+Backward Print: show token list from the backside(reversely) which is sorted in dictionary order.
+Delete: user gives the token to delete from the list.
+
+
+
+For example>
+
+input file:
+Hello World
+How are you
+I feel good today
+You look very good today
+
+Forward Print Output:
+are 1 
+feel 1 
+good 2 
+hello 1 
+how 1
+i 1 
+look 1 
+today 2 
+very 1
+world 1
+you 2
+
+Backward Print Output:
+you 2 
+world 1
+very 1
+today 2 
+look 1 
+i 1 
+how 1 
+hello 1 
+good 2 
+feel 1 
+are 1
+
+
+
+This program is written with C language
