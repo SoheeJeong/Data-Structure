@@ -1,0 +1,12 @@
+Heap
+
+assignment of Data Structure lecture of Korea University 2019-01 semester
+
+
+This program inserts 20 random integers into heap and shows heap structure in each inserting step.
+After inserting, program deletes 1 random integer step by step and shows heap structure in each deleting step.
+
+refer to the screen capture.PNG file to see executed result.
+
+
+This program is written with C language
